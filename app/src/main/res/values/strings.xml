@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="signup">SIGNUP</string>
+    <string name="notification">Notification</string>
+    <string name="name">Name</string>
+    <string name="SignUp">SignUp</string>
+    <string name="email">Email</string>
+    <string name="phone">Telephone</string>
+    <string name="register">REGISTER</string>
+</resources>
